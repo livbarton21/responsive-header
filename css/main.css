@@ -19,7 +19,6 @@ html {
 
 body {
   display: block;
-  background-color: #18294f;
 }
 
 h1 {
@@ -31,7 +30,6 @@ h1 {
 
 nav li {
   font-family: "Ubuntu" sans-serif;
-  color: #6c8fe0;
   list-style-type: none;
   text-decoration: none;
   font-size: 1.125rem;
@@ -45,7 +43,8 @@ li a {
 
 header {
   margin: 0;
-  padding: .3em 0 .5em;
+  padding: 5px;
+  background-color: #18294f;
 }
 @media only screen and (min-width: 25em) {
 
