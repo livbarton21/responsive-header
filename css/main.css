@@ -19,26 +19,30 @@ html {
 
 body {
   display: block;
+  margin: 0;
 }
 
 h1 {
   color: #fff;
-  font-family: "Ubuntu" sans-serif;
+  font: "Ubuntu" sans-serif;
   text-align: center;
   font-size: 2rem;
 }
 
 nav li {
-  font-family: "Ubuntu" sans-serif;
+  font: "Ubuntu" sans-serif;
   list-style-type: none;
   text-decoration: none;
   font-size: 1.125rem;
   text-align: center;
+  text-align: left;
+  padding: .5rem;
 }
 
 li a {
   color: #6c8fe0;
   text-decoration: none;
+  display: block;
 }
 
 header {
