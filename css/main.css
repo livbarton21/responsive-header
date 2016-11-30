@@ -10,7 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-  font: Ubuntu, sans-serif;
+  font: normal 100%/1.3 Ubuntu, sans-serif;
 }
 
 *, *::before, *::after {
@@ -29,7 +29,7 @@ h1 {
 }
 
 nav li {
-  font: normal 100%/1.3 Ubuntu, sans-serif;
+  font: normal 100%/1.5 Ubuntu, sans-serif;
   list-style-type: none;
   text-decoration: none;
   font-size: 1.125rem;
